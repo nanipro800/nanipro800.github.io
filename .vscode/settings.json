@@ -8,14 +8,17 @@
 
 /*  
   // head
-    <link rel="stylesheet" href="css/all.min.css" />
-    <link rel="stylesheet" href="css/fontawesome.min.css" />
 
-    <script src="javascripts/all.min.js"></script>
-    <script src="javascripts/fontawesome.min.js"></script>
+    <link rel="stylesheet" href="../css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../css/all.min.css" />
+    <link rel="stylesheet" href="../css/fontawesome.min.css" />
+
+    <script src="../javascripts/all.min.js"></script>
+    <script src="../javascripts/fontawesome.min.js"></script>
+
   // body
 
-    <script src="javascripts/jquery-3.6.0.min.js"></script>
-    <script src="javascripts/popper.min.js"></script>
-    <script src="javascripts/bootstrap.min.js"></script> 
+    <script src="../javascripts/jquery-3.6.0.min.js"></script>
+    <script src="../javascripts/popper.min.js"></script>
+    <script src="../javascripts/bootstrap.min.js"></script> 
 */
